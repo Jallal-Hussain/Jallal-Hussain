@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="coding-gif" align="center"/>
+<img src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="coding-gif" align="center" width="300"/>
 <h1 align="center">Hi 👋, I'm Jalal Hussain</h1>
 <h3 align="center">A passionate MERN-Stack web developer from Pakistan</h3>
 
