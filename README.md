@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="coding-gif"  width="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" alt="coding-gif"/></p>
 <p></p>
 <p></p>
 <h1 align="center">Hi 👋, I'm Jalal Hussain</h1>
