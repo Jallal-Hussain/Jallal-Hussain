@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jalal Hussain</h1>
 <h3 align="center">A passionate MERN-Stack web developer from Pakistan</h3>
 
-- 🌱 I’m currently Intern of **MERN Stack Developer** at <p><a href="https://netbots.tech" target="_blank" rel="noreferrer">**NetBots**</a></p>
+- 🌱 I’m currently Intern of **MERN Stack Developer** at <span><a href="https://netbots.tech" target="_blank" rel="noreferrer">**NetBots**</a></span>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, MUI, and Tailwind**
 
