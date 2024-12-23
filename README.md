@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Intern of **MERN Stack Developer** at <span><a href="https://netbots.tech" target="_blank" rel="noreferrer">**NetBots**</a></span>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, MUI, and Tailwind CSS, Next Js**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, MUI, Tailwind CSS, and Next Js**
 
 - 📫 How to reach me **jalal143880@gmail.com**
 
