@@ -71,12 +71,6 @@
   <img src="https://streak-stats.demolab.com/?user=Jallal-Hussain&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-## 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/36BCF7/Jallal-Hussain" alt="Contribution Graph"/>
-</p>
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
