@@ -64,17 +64,17 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jallal-Hussain&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jallal-Hussain&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jallal-Hussain&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jallal-Hussain&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jallal-Hussain&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Jallal-Hussain&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-## 🏆 GitHub Trophies
+## 📅 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jallal-Hussain&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
+  <img src="https://ghchart.rshah.org/36BCF7/Jallal-Hussain" alt="Contribution Graph"/>
 </p>
 
 ### ✍️ Random Dev Quote
@@ -90,5 +90,5 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jallal-Hussain&icon=0&color=0" alt="Visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=Jallal-Hussain&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
 </p>
